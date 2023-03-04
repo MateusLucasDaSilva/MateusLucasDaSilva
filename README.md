@@ -7,7 +7,7 @@
 
 
 <div align="center" style="display: inline_block">
-<img align="center" width="500px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="center" width="500px" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
