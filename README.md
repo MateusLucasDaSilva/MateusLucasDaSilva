@@ -7,7 +7,7 @@
 
 
 <div align="center" style="display: inline_block">
-<img align="right" width="300" src="[https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)" />
+<img align="right" width="300" src="[[[[https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)" />
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
