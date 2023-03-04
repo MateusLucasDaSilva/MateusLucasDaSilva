@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mateus</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="30px">, I'm Mateus</h1>
 <h3 align="center">I'm always looking to learn new areas, I'm a computer lover passionate about programming.</h3>
 
 
