@@ -20,7 +20,7 @@
 <p align="center"> 
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="#" target="_blank"> <img src="https://imgur.com/ZgbVpce.png"  width="45" height="45"/> </a>
-    <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"  width="44" height="44"/></a> 
+    <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png"  width="44" height="44"/></a> 
     <a href="http://linguagemc.com.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="48" height="48"/></a> </a> 
     <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> </a> 
     <a href="https://pub.dev/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"  width="45" height="43"/> </a>  
