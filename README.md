@@ -10,6 +10,9 @@
 </h3>
 
 
+
+
+
 <div align="center" style="display: inline_block">
 <img align="right" width="500px" src="https://github.com/MateusLucasDaSilva/MateusLucasDaSilva/assets/101568163/f0d3a4ef-51c9-4c6b-9eec-a52ccf9ec00d" />
 
@@ -20,9 +23,8 @@
     <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
     <a href="http://linguagemc.com.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="48" height="48"/></a> </a> 
     <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> </a> 
-    <a href="https://pub.dev/" target="_blank"> <img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/02/27202313/FLUTTER-O-QUE-%C3%89.png"  width="48" height="48"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>   
+    <a href="https://pub.dev/" target="_blank"> <img src="https://yt3.googleusercontent.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s900-c-k-c0x00ffffff-no-rj"  width="48" height="48"/> </a> 
+ 
 </p>
 
 ## Connect with me: 
