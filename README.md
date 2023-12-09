@@ -31,7 +31,7 @@
 ## Connect with me: 
  <a href="https://discordapp.com/users/513040817225465897/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=MateusLukas505@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/mateus_lukas_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%833AB4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/mateus_lukas_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3f729b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/mateus-lucas-264376257/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=whait" target="_blank"></a>
 </div>
 
