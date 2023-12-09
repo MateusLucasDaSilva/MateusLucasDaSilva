@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
-<h1 align="center">Hi <img src="https://github.com/MateusLucasDaSilva/MateusLucasDaSilva/assets/101568163/803683e8-f2a7-45eb-9aae-6f9d2d032f26" width="70px">, I'm Mateus</h1>
+<h1 align="center">Hi <img src="https://github.com/MateusLucasDaSilva/MateusLucasDaSilva/assets/101568163/803683e8-f2a7-45eb-9aae-6f9d2d032f26" width="50px">, I'm Mateus</h1>
 
-![_0b83ca6a-df34-4fb8-a8ac-1e5f6f22ab83](https://github.com/MateusLucasDaSilva/MateusLucasDaSilva/assets/101568163/803683e8-f2a7-45eb-9aae-6f9d2d032f26)
 
 
 <h3 align="center">I'm passionate about technology, I'm in constant learning!
