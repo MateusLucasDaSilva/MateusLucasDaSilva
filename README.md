@@ -10,7 +10,7 @@
 
 
 <div align="center" style="display: inline_block">
-<img align="center" width="500px" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+<img align="center" width="500px" src="[https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp](https://github.com/MateusLucasDaSilva/MateusLucasDaSilva/assets/101568163/f0d3a4ef-51c9-4c6b-9eec-a52ccf9ec00d )" />
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
