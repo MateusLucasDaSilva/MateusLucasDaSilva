@@ -24,7 +24,7 @@
     <a href="http://linguagemc.com.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="30" height="30"/></a> </a> 
     <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" width="30" height="30" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"width="30" height="30"/></a> </a> 
     <a href="https://pub.dev/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"  width="30" height="30"/> </a>  
-     <a href="https://dart.dev/guides" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/dart.svg"  width="25" height="25"/> </a> 
+     <a href="https://dart.dev/guides" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/dart.svg"  width="26" height="26"/> </a> 
  
 </p>
 
@@ -32,8 +32,9 @@
  <a href="https://discordapp.com/users/513040817225465897/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=MateusLukas505@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/mateus_lukas_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/mateus-lucas-264376257/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=whait" target="_blank"></a>
 </div>
-
+a
 
 <br>
 <br>
