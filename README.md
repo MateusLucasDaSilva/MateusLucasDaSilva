@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
-<h1 align="left">Hi <img src="https://github.com/MateusLucasDaSilva/MateusLucasDaSilva/assets/101568163/803683e8-f2a7-45eb-9aae-6f9d2d032f26" width="50px">, I'm Mateus</h1>
+<h1 align="left">Hi 🖐️,  I'm Mateus</h1>
 
 
 
